@@ -17,5 +17,3 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 --------------
-# Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jaltgen)](https://github.com/anuraghazra/github-readme-stats)
